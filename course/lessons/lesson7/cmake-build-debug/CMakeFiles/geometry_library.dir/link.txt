@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/geometry_library.dir/geometry_library.cpp.o  -o geometry_library.exe -Wl,--out-implib,libgeometry_library.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

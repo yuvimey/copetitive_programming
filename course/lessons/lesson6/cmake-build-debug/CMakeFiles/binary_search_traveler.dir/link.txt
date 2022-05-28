@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/binary_search_traveler.dir/binary_search_traveler.cpp.o  -o binary_search_traveler.exe -Wl,--out-implib,libbinary_search_traveler.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

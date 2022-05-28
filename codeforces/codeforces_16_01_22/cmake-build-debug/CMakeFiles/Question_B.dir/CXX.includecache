@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Yuval/CLionProjects/codeforces_16_01_22/Question_B.cpp
+iostream
+-
+vector
+-
+math.h
+-
+map
+-
+string
+-
+bits/stdc++.h
+-
+stdlib.h
+-
+stdio.h
+-
+

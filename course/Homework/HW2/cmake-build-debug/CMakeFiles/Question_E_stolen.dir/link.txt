@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Question_E_stolen.dir/Question_E_stolen.cpp.o  -o Question_E_stolen.exe -Wl,--out-implib,libQuestion_E_stolen.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

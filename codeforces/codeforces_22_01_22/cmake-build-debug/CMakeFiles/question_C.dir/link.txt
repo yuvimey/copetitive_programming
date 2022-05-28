@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/question_C.dir/question_C.cpp.o  -o question_C.exe -Wl,--out-implib,libquestion_C.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Yuval/CLionProjects/atcoder_22_01_22/question_B.cpp
+algorithm
+-
+cstdio
+-
+cmath
+-
+vector
+-
+set
+-
+map
+-
+iostream
+-
+

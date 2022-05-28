@@ -1,0 +1,13 @@
+/cygdrive/c/Users/Yuval/CLionProjects/lesson6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Yuval/CLionProjects/lesson6/cmake-build-debug/CMakeFiles/mod_binom_lucas.dir
+/cygdrive/c/Users/Yuval/CLionProjects/lesson6/cmake-build-debug/CMakeFiles/gcd_lcm_modulo.dir
+/cygdrive/c/Users/Yuval/CLionProjects/lesson6/cmake-build-debug/CMakeFiles/permutation_min_swaps.dir
+/cygdrive/c/Users/Yuval/CLionProjects/lesson6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Yuval/CLionProjects/lesson6/cmake-build-debug/CMakeFiles/prime_factorization.dir
+/cygdrive/c/Users/Yuval/CLionProjects/lesson6/cmake-build-debug/CMakeFiles/all_primes.dir
+/cygdrive/c/Users/Yuval/CLionProjects/lesson6/cmake-build-debug/CMakeFiles/mod_binom_fermat.dir
+/cygdrive/c/Users/Yuval/CLionProjects/lesson6/cmake-build-debug/CMakeFiles/binary_search.dir
+/cygdrive/c/Users/Yuval/CLionProjects/lesson6/cmake-build-debug/CMakeFiles/binary_search_traveler.dir
+/cygdrive/c/Users/Yuval/CLionProjects/lesson6/cmake-build-debug/CMakeFiles/ternary_search.dir
+/cygdrive/c/Users/Yuval/CLionProjects/lesson6/cmake-build-debug/CMakeFiles/mod_binom_dynamic.dir
+/cygdrive/c/Users/Yuval/CLionProjects/lesson6/cmake-build-debug/CMakeFiles/segment_tree.dir

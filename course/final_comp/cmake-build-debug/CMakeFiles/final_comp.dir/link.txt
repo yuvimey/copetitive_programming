@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/final_comp.dir/main.cpp.o  -o final_comp.exe -Wl,--out-implib,libfinal_comp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

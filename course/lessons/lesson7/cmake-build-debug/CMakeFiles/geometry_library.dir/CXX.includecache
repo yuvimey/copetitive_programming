@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Yuval/CLionProjects/lesson7/geometry_library.cpp
+algorithm
+-
+cstdio
+-
+iostream
+-
+vector
+-
+set
+-
+unordered_set
+-
+cmath
+-
+

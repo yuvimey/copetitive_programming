@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/belman_ford.dir/belman_ford.cpp.o  -o belman_ford.exe -Wl,--out-implib,libbelman_ford.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

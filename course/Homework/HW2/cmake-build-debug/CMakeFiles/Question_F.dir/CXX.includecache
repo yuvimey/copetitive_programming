@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Yuval/CLionProjects/HW2/Question_F.cpp
+algorithm
+-
+cstdio
+-
+iostream
+-
+vector
+-
+set
+-
+unordered_set
+-
+cmath
+-
+map
+-
+

@@ -1,0 +1,4 @@
+/cygdrive/c/Users/Yuval/CLionProjects/codeforces_15_01_22/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Yuval/CLionProjects/codeforces_15_01_22/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Yuval/CLionProjects/codeforces_15_01_22/cmake-build-debug/CMakeFiles/codeforces_15_01_22.dir
+/cygdrive/c/Users/Yuval/CLionProjects/codeforces_15_01_22/cmake-build-debug/CMakeFiles/Question_B.dir

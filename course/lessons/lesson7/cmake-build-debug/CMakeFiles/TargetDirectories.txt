@@ -1,0 +1,4 @@
+/cygdrive/c/Users/Yuval/CLionProjects/lesson7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Yuval/CLionProjects/lesson7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Yuval/CLionProjects/lesson7/cmake-build-debug/CMakeFiles/geometry_library.dir
+/cygdrive/c/Users/Yuval/CLionProjects/lesson7/cmake-build-debug/CMakeFiles/regular_convex_polygon.dir

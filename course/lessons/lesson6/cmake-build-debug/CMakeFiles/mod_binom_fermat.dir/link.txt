@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/mod_binom_fermat.dir/mod_binom_fermat.cpp.o  -o mod_binom_fermat.exe -Wl,--out-implib,libmod_binom_fermat.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

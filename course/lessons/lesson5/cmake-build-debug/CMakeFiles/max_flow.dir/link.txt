@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/max_flow.dir/max_flow.cpp.o  -o max_flow.exe -Wl,--out-implib,libmax_flow.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

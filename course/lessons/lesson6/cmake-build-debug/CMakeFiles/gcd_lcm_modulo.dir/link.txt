@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/gcd_lcm_modulo.dir/gcd_lcm_modulo.cpp.o  -o gcd_lcm_modulo.exe -Wl,--out-implib,libgcd_lcm_modulo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
