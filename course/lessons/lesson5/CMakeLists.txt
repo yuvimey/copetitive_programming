@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.17)
+project(lesson5)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(min_cost_bipartite_perfect_matching maximum_bipartite_matching.cpp)
+add_executable(maximum_bipartite_matching maximum_bipartite_matching.cpp)
+add_executable(max_flow max_flow.cpp)
+add_executable(min_cost_max_flow min_cost_max_flow.cpp)
+add_executable(is_bipartite_graph is_bipartite_graph.cpp)
+add_executable(union_find union_find.cpp)
+add_executable(strongly_connected_components strongly_connected_components.cpp)
+add_executable(kruskal kruskal.cpp)
+add_executable(dijkstra dijkstra.cpp)
+add_executable(belman_ford belman_ford.cpp)
+add_executable(all_pairs_shortest_path all_pairs_shortest_path.cpp)

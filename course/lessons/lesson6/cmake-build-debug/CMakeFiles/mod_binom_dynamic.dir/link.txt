@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/mod_binom_dynamic.dir/mod_binom_dynamic.cpp.o  -o mod_binom_dynamic.exe -Wl,--out-implib,libmod_binom_dynamic.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

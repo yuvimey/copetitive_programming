@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/contest24_12_2021.dir/main.cpp.o  -o contest24_12_2021.exe -Wl,--out-implib,libcontest24_12_2021.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

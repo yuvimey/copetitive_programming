@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.17)
+project(lesson6)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(segment_tree segment_tree.cpp)
+add_executable(ternary_search ternary_search.cpp)
+add_executable(binary_search_traveler binary_search_traveler.cpp)
+add_executable(binary_search binary_search.cpp)
+add_executable(permutation_min_swaps permutation_min_swaps.cpp)
+add_executable(mod_binom_lucas mod_binom_lucas.cpp)
+add_executable(mod_binom_dynamic mod_binom_dynamic.cpp)
+add_executable(mod_binom_fermat mod_binom_fermat.cpp)
+add_executable(gcd_lcm_modulo gcd_lcm_modulo.cpp)
+add_executable(all_primes all_primes.cpp)
+add_executable(prime_factorization prime_factorization.cpp)

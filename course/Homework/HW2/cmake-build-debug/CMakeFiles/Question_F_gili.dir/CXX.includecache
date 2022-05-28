@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Yuval/CLionProjects/HW2/Question_F_gili.cpp
+vector
+-
+tuple
+-
+algorithm
+-
+iostream
+-
+cmath
+-
+chrono
+-
+

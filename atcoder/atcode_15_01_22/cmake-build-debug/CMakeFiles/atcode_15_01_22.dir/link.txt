@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/atcode_15_01_22.dir/main.cpp.o  -o atcode_15_01_22.exe -Wl,--out-implib,libatcode_15_01_22.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

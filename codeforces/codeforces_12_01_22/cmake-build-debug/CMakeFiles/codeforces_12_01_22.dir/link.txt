@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/codeforces_12_01_22.dir/main.cpp.o  -o codeforces_12_01_22.exe -Wl,--out-implib,libcodeforces_12_01_22.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

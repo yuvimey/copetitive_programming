@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/atcoder_22_01_22.dir/main.cpp.o  -o atcoder_22_01_22.exe -Wl,--out-implib,libatcoder_22_01_22.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

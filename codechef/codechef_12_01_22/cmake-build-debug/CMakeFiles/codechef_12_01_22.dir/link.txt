@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/codechef_12_01_22.dir/main.cpp.o  -o codechef_12_01_22.exe -Wl,--out-implib,libcodechef_12_01_22.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

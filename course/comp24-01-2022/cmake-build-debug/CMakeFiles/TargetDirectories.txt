@@ -1,0 +1,5 @@
+/cygdrive/c/Users/Yuval/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Yuval/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Yuval/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir
+/cygdrive/c/Users/Yuval/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/Question_B.dir
+/cygdrive/c/Users/Yuval/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/Question_C.dir

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Yuval/CLionProjects/HW2/Question_C.cpp
+cmath
+-
+vector
+-
+map
+-
+set
+-
+iostream
+-
+bits/stdc++.h
+-
+limits
+-
+

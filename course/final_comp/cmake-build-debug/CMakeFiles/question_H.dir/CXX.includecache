@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Yuval/CLionProjects/final_comp/question_H.cpp
+algorithm
+-
+cstdio
+-
+iostream
+-
+vector
+-
+set
+-
+unordered_set
+-
+cmath
+-
+map
+-
+vector
+-
+set
+-
+

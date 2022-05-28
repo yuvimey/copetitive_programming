@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/union_find.dir/union_find.cpp.o  -o union_find.exe -Wl,--out-implib,libunion_find.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

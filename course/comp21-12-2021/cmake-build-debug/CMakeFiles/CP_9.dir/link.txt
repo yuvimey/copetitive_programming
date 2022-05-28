@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/CP_9.dir/main.cpp.o  -o CP_9.exe -Wl,--out-implib,libCP_9.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

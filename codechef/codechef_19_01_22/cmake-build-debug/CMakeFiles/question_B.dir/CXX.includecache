@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Yuval/CLionProjects/codechef_19_01_22/question_B.cpp
+iostream
+-
+vector
+-
+math.h
+-
+map
+-
+string
+-
+bits/stdc++.h
+-
+

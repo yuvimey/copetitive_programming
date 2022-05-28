@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/lesson3.dir/main.cpp.o  -o lesson3.exe -Wl,--out-implib,liblesson3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

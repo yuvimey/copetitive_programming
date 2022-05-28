@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/lesson6.dir/all_primes.cpp.o  -o lesson6.exe -Wl,--out-implib,liblesson6.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

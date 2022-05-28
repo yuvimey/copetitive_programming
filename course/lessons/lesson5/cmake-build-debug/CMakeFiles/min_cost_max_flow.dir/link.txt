@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/min_cost_max_flow.dir/min_cost_max_flow.cpp.o  -o min_cost_max_flow.exe -Wl,--out-implib,libmin_cost_max_flow.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

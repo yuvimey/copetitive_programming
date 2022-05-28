@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/segment_tree.dir/segment_tree.cpp.o  -o segment_tree.exe -Wl,--out-implib,libsegment_tree.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
